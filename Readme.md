@@ -27,5 +27,8 @@ This repo contains a list of Telegram channels focused on IT job opportunities, 
 ### 🇬🇧 English Telegram Channels
 
 - [@jobsinternshipswale](https://t.me/jobsinternshipswale) — 🎓 Internships and job opportunities for juniors
+- [@gocareers](https://t.me/s/gocareers) — Go Careers
+- [@qajobs](https://telegram.me/qajobs) — QA testing Jobs - India
+- [@softwaretestingjobhelp](https://t.me/softwaretestingjobhelp) — Software Testing Jobs - India
 
 ---
