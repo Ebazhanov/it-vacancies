@@ -1,0 +1,25 @@
+name: Prettier Check for README
+
+on:
+  push:
+    paths:
+      - 'README.md'
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  prettier:
+    name: Check README.md formatting
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref || github.ref }}
+
+      - name: Check Prettier formatting on README.md
+        uses: creyD/prettier_action@v4.3
+        with:
+          prettier_options: --check README.md
