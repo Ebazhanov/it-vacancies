@@ -18,16 +18,12 @@
 | [@golang_jobs](https://t.me/golang_jobs)       | 💻 Dev    | Golang: вакансии и аналитика       |
 | [@python_jobs](https://t.me/python_jobs)       | 💻 Dev    | Python: вакансии и аналитика       |
 | [@devops_jobs](https://t.me/devops_jobs)       | 💻 Dev    | DevOps: работа и аналитика         |
+| [@rabotadlaqa](https://t.me/rabotadlaqa)       | 🧪 QA     | QA вакансия                        |
 
 ---
 
 ## 🇬🇧 English
 
-### 🧪 QA
-_Coming soon_
-
-### 💻 Dev
-_Coming soon_
-
-### 🎨 Design
-_Coming soon_
+| Channel                                                  | Category      | Description      |
+|----------------------------------------------------------|---------------|------------------|
+| [@jobsinternshipswale](https://t.me/jobsinternshipswale) | 🎓 Internship | Jobs internships |
