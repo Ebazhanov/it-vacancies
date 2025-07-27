@@ -1,5 +1,9 @@
 # 🌍 IT Vacancies Telegram Channels
+This section contains a list of Telegram channels focused on IT job opportunities, resume sharing, and internships across various languages and specializations.
+Whether you're a QA engineer, developer, or just starting out, you'll find relevant channels here to support your job search.
 
+📌 There is an open issue for expanding this list.
+Feel free to contribute by suggesting new channels or editing descriptions via pull request or comments on the issue.
 ---
 
 ## 🔍 Search channel by your language 🌎
