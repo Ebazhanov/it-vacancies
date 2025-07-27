@@ -1,4 +1,8 @@
-# 🌍 Channels by Language
+# 🌍 IT Vacancies Telegram Channels
+
+---
+
+## 🔍 Search channel by your language 🌎
 
 ---
 
