@@ -4,9 +4,21 @@
   "description": "A curated list of Telegram channels with IT job opportunities (QA, Dev, DevOps, etc.) in Russian and English.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prettier": "prettier --write .",
+    "prettier:check": "prettier --check ."
   },
-  "keywords": ["telegram", "jobs", "it", "vacancies", "qa", "dev", "channels"],
+  "keywords": [
+    "telegram",
+    "jobs",
+    "it",
+    "vacancies",
+    "qa",
+    "dev",
+    "channels"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
 }
