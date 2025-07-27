@@ -1,0 +1,12 @@
+{
+  "name": "it-vacancies",
+  "version": "1.0.0",
+  "description": "A curated list of Telegram channels with IT job opportunities (QA, Dev, DevOps, etc.) in Russian and English.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["telegram", "jobs", "it", "vacancies", "qa", "dev", "channels"],
+  "author": "",
+  "license": "ISC"
+}
