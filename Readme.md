@@ -1,22 +1,29 @@
-# Channels by Language
+# 🌍 Channels by Language
 
---------
-## Russian
-### Public your CV
-- [@qa_resume](https://t.me/qa_resumes) — QA резюме
-### QA
-- [@qa_jobs](https://t.me/qa_jobs) - QA — вакансии
-- [@qajobsoffers](https://t.me/qajobsoffers) - Работа для тестировщиков
-### Dev
-- [@habr_career](https://t.me/habr_career) — Хабр Карьера
-- [@remote_it_jobs](https://t.me/remote_it_jobs) — Стабильная удаленная работа для разработчиков и не только
-- [@golang_jobs](https://t.me/golang_jobs) — Golang — вакансии и аналитика
-- [@python_jobs](https://t.me/python_jobs) — Python — вакансии и аналитика
-- [@devops_jobs](https://t.me/devops_jobs) — DevOps Jobs - работа и аналитика
+---
 
---------
-## English
-### QA
-### Dev
-### Design
+### 🇷🇺 Russian Telegram Channels
 
+| Канал                                          | Категория | Описание                           |
+|------------------------------------------------|-----------|------------------------------------|
+| [@qa_resume](https://t.me/qa_resumes)          | 📄 Резюме | QA резюме                          |
+| [@qa_jobs](https://t.me/qa_jobs)               | 🧪 QA     | Вакансии в QA                      |
+| [@qajobsoffers](https://t.me/qajobsoffers)     | 🧪 QA     | Работа для тестировщиков           |
+| [@habr_career](https://t.me/habr_career)       | 💻 Dev    | Хабр Карьера                       |
+| [@remote_it_jobs](https://t.me/remote_it_jobs) | 💻 Dev    | Удалённая работа для разработчиков |
+| [@golang_jobs](https://t.me/golang_jobs)       | 💻 Dev    | Golang: вакансии и аналитика       |
+| [@python_jobs](https://t.me/python_jobs)       | 💻 Dev    | Python: вакансии и аналитика       |
+| [@devops_jobs](https://t.me/devops_jobs)       | 💻 Dev    | DevOps: работа и аналитика         |
+
+---
+
+## 🇬🇧 English
+
+### 🧪 QA
+_Coming soon_
+
+### 💻 Dev
+_Coming soon_
+
+### 🎨 Design
+_Coming soon_
