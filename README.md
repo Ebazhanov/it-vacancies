@@ -20,8 +20,7 @@ channels or editing descriptions via pull request or comments on the issue.
   Engineers and IT people in the United Kingdom: London, Bristol, Liverpool, Birmingham, Cambridge.
 - [@UnitedKingdom_Jobs](https://t.me/UnitedKingdom_Jobs) — Jobs In London & UK
 - [@bestlondonjob](https://t.me/bestlondonjob) — Jobs in London and around United Kingdom chat
-- [@jobsinternshipswale](https://t.me/jobvisauk) — International job opportunities with visa
-  sponsorship
+
 
 ### 🇷🇺 Russian Telegram Channels
 
