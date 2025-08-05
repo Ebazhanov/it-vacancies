@@ -21,6 +21,7 @@ channels or editing descriptions via pull request or comments on the issue.
 - [@UnitedKingdom_Jobs](https://t.me/UnitedKingdom_Jobs) — Jobs In London & UK
 - [@bestlondonjob](https://t.me/bestlondonjob) — Jobs in London and around United Kingdom chat
 
+---
 
 ### 🇷🇺 Russian Telegram Channels
 
