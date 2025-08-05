@@ -16,11 +16,12 @@ channels or editing descriptions via pull request or comments on the issue.
 ### 🇬🇧 UK Telegram Channels
 
 - [@jobvisauk](https://t.me/jobvisauk) — International job opportunities with visa sponsorship
-- [@devitjobs](https://t.me/devitjobs) — Best jobs for Software Developers, System and DevOps Engineers and IT people in the United Kingdom: London, Bristol, Liverpool, Birmingham, Cambridge.
+- [@devitjobs](https://t.me/devitjobs) — Best jobs for Software Developers, System and DevOps
+  Engineers and IT people in the United Kingdom: London, Bristol, Liverpool, Birmingham, Cambridge.
 - [@UnitedKingdom_Jobs](https://t.me/UnitedKingdom_Jobs) — Jobs In London & UK
 - [@bestlondonjob](https://t.me/bestlondonjob) — Jobs in London and around United Kingdom chat
-- [@jobsinternshipswale](https://t.me/jobvisauk) — International job opportunities with visa sponsorship
-
+- [@jobsinternshipswale](https://t.me/jobvisauk) — International job opportunities with visa
+  sponsorship
 
 ### 🇷🇺 Russian Telegram Channels
 
