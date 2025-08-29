@@ -7,6 +7,10 @@ or just starting out, you'll find relevant channels here to support your job sea
 📌 There is an open issue for expanding this list. Feel free to contribute by suggesting new
 channels or editing descriptions via pull request or comments on the issue.
 
+🎯 **Looking for more resources?** Check out our comprehensive
+[IT Job Seeker Resources](resources.md) guide with tools, platforms, and tips to boost your job
+search!
+
 ---
 
 ## 🔍 Search channel by your language 🌎
