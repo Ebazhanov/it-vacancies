@@ -7,6 +7,9 @@ or just starting out, you'll find relevant channels here to support your job sea
 📌 There is an open issue for expanding this list. Feel free to contribute by suggesting new
 channels or editing descriptions via pull request or comments on the issue.
 
+💡 **New!** Check out our [CV Writing Guide](cv-tips.md) for best practices on writing IT CVs and
+tips for passing applicant tracking systems (ATS).
+
 ---
 
 ## 🔍 Search channel by your language 🌎
