@@ -37,6 +37,17 @@ channels or editing descriptions via pull request or comments on the issue.
 
 ---
 
+### 🇵🇱 Poland Telegram Channels
+
+- [@it_jobs_poland](https://t.me/it_jobs_poland) — 💻 General IT job postings in Poland
+- [@RemoteJobsPL](https://t.me/RemoteJobsPL) — 🏠 Remote IT positions for Polish developers
+- [@FrontendPL](https://t.me/FrontendPL) — 🎨 Frontend-focused job opportunities in Poland
+- [@DevJobsPoland](https://t.me/DevJobsPoland) — 💻 Software development jobs in Poland
+- [@QAJobsPoland](https://t.me/QAJobsPoland) — 🧪 QA and testing positions in Poland
+- [@PolandTechJobs](https://t.me/PolandTechJobs) — 🚀 Technology and startup jobs in Poland
+
+---
+
 ### 🇬🇮 India Telegram Channels
 
 - [@jobsinternshipswale](https://t.me/jobsinternshipswale) — 🎓 Internships and job opportunities
