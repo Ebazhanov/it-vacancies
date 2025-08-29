@@ -7,6 +7,9 @@ or just starting out, you'll find relevant channels here to support your job sea
 📌 There is an open issue for expanding this list. Feel free to contribute by suggesting new
 channels or editing descriptions via pull request or comments on the issue.
 
+🧑‍🏫 **New:** Looking for mentorship and learning resources? Check out our
+[Mentorship & Career Growth Resources](mentorship-and-courses.md) guide!
+
 ---
 
 ## 🔍 Search channel by your language 🌎
